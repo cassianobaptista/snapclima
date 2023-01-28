@@ -18,7 +18,7 @@ Colocar em prática o que aprendi com HTML, CSS e JavaScript
 - JavaScript
 
 ## Como acessar:
-(https://cassianobaptista.github.io/snapclima/)
+(https://snapclima-cassianotbap.netlify.app/)
 
 ## Como clonar para sua máquina:
 1. Git instalado em sua máquina;
