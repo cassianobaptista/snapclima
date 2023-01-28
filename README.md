@@ -1,5 +1,3 @@
-~~ JavaScript em andamento
-
 # Snapclima
 
 ## Descrição:
